@@ -1,7 +1,9 @@
 Archivos que se encuentran en este repositorio personal:
 
 .env = utilizado para el proyecto de consumo de API Amadeus.
+
 Desafio_APIS_Omar_Fernandez.ipynb = notebook que contiene el proyecto que se entrego para el desafio de consumo de API's.
+
 Proyecto_final_Omar_Fernandez.ipynb = notebook que contiene el proyecto en python para predecir cancelaciones de hoteles.
 Reserva de hoteles - Proyecto final - Omar Fernandez.pdf = documento de presentación del proyecto.
 coordenadas_paises.csv = archivo procesado en el proyecto "Proyecto_final_Omar_Fernandez.ipynb" y el cual se utiliza de entrada si no se desea consumir directamente desde la API.
