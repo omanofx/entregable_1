@@ -15,3 +15,5 @@ df_reservas_ya_procesadas.csv = es un archivo que contiene una muestra del datas
 hotel_booking.csv = es el dataset original que consume en el notebook "Proyecto_final_Omar_Fernandez.ipynb".
 
 hoteles_api_amadeus_2013_12_12 11_29_00.csv = archivo de salida que se creo en el notebook "Desafio_APIS_Omar_Fernandez.ipynb".
+
+cross_validation_Omar_Fernandez.ipynb = desafio de cross validation.
